@@ -5,8 +5,8 @@
 package Utils;
 
 /**
- * @author yuefeng
- * @version StringUtil.java, v 0.1 2021年09月13日 11:56 上午 yuefeng
+ * @author
+ * @version StringUtil.java, v 0.1 2021年09月13日 11:56 上午
  */
 public class StringUtil {
     public static boolean isNullOrBlank(String string){
